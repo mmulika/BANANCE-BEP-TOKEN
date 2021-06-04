@@ -1,3 +1,5 @@
 # BinanceX-BEP20-Token
 
-All documents and video are at https://drive.google.com/drive/folders/1yvstqmvxSJU0KJ-31f_FXVZPoROxSALF?usp=sharing
+git remote add origin https://github.com/mmulika/BANANCE-BEP-TOKEN.git
+truffle compile
+truffle migrate
